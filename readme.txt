@@ -1,2 +1,6 @@
-ini baris pertama
+say halo
+asjkkksd
+askdjj
+asdl;aksd
+:x
 
